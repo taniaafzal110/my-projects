@@ -1,0 +1,81 @@
+.img{
+	height: 608px;
+    width: 350px;
+	/*border: 1px solid black;*/
+	font-family: 'Roboto', sans-serif;
+	-webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+	position: relative;
+
+}
+h1{
+	margin-bottom: 5px;
+}
+.img-div{
+	height: 209px;
+    width: 350px
+}
+.last-div{
+	position: absolute;
+	bottom: 0px;
+    height: 210px;
+    width: 335px;
+  
+    padding-left: 15px;
+}
+#yyy{
+	color: #c8c8c8;
+	font-weight: bold;
+}
+#first{
+	    font-size: 16px;
+    margin-left: 75px;
+    color: #c8c8c8;
+}
+.second-div{
+	    height: 190px;
+    position: absolute;
+    top: 208px;
+    width: 335px;
+    border-bottom: 1px solid #c8c8c8;
+    
+    padding-left: 15px;
+}
+
+#icons{
+	color: gold;
+	font-size: 13px;
+}
+#p1{
+	font-weight: bold;
+}
+#p2{
+	font-size: 15px;
+	color: #8e8e8e;
+}
+button{
+	 margin-top: 65px;
+    border: 0px;
+    font-weight: bold;
+    color: cornflowerblue;
+    background-color: white;
+}
+.box, .ops, .clock{
+	padding:12px;
+	font-weight: bold;
+	color: #8e8e8e;
+}
+.clock{
+	font-size: 20px;
+	 
+
+}
+.ops{
+	background-color:#d2d2d2;
+	color: #272727;
+	padding: 10px 15px;
+}
+h3{
+	color: #313131;
+}

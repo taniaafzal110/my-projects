@@ -1,0 +1,23 @@
+body{
+    background-color: #c59205;
+    margin: 0px;
+}
+nav{
+    background-color: black;
+    display: inline-block;
+    text-align: center;
+
+}
+span{
+    color: white;
+    font-size: 50px;
+
+}
+.name{
+    font-size: 10px;
+   /* display: none;*/
+}
+/*.name:hover{
+   visibility: visible;;
+    font-size: 10px;*/
+}
